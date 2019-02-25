@@ -1,5 +1,5 @@
 import java.util.*;
-class hello
+class sum
 {
 	public static void main(String ar[])
 	{
